@@ -3,4 +3,6 @@
 
 ## 效果展示
 ### 旋转前
+![image](https://github.com/libai-github/imageRotate-Auto-Manual/blob/master/autoRotateImage.png)
 ### 旋转后
+![image](https://github.com/libai-github/imageRotate-Auto-Manual/blob/master/autoRotateResukt.png)
